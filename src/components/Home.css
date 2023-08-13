@@ -1,0 +1,52 @@
+.Home {
+  font-family: DM Sans, sans-serif;
+  color: azure;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+
+.text{
+    width: 45%;
+    margin-left: 60px;
+    margin-top: 5rem;
+}
+
+h2 {
+  font-size: 40px;
+  font-weight: 800;
+}
+
+span {
+  color: #269afe;
+}
+
+.image img{
+    width: 650px;
+    margin-top: -13rem;
+}
+
+p{
+    margin-bottom: 40px;
+}
+
+input{
+    border: none;
+    color: white;
+    background: none;
+    width: 60%;
+    margin-bottom: 20px;
+}
+
+button{
+  background-color: #269afe;
+  color: white;
+  border: none;
+  font-size: 17px;
+  padding: 1rem;
+  border-radius: 2rem;
+  cursor: pointer;
+}
+
